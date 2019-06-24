@@ -1,0 +1,13 @@
+{
+  "name": "Youtube-Sync",
+  "version": "0.0.1",
+  "description": "Watch Youtube in sync with your friends.",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  },
+  "dependencies": {}
+}
