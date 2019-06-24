@@ -1,6 +1,6 @@
 # Youtube Sync
 
-Watch Youtube in sync with your friends.
+A browser extension that lets you watch Youtube in sync with your friends.
 
 ## Install
 
